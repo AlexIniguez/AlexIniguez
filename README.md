@@ -1,7 +1,6 @@
-#<>
 <div align="center">
 
- ##<div align="center">Hi! I´m Alex, I´m currently learning to be a full-stack developer 🤙🏽💻👨🏽‍💻</div>
+ ## <div align="center">Hi! I´m Alex, I´m currently learning to be a full-stack developer 🤙🏽💻👨🏽‍💻</div>
  <div align="center"></div>
 
  <br>

@@ -23,6 +23,7 @@
 
   - ⚡ Fun fact: I wouldn't say I like PHP and Java  
  </td></tr></table>
+ 
 ## My Skill Set  
 <div valign="top" style="display: flex, justify-content: center">
 <div valign="top" width="50%">
